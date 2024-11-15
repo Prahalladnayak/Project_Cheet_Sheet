@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/Java%20Cheet_Sheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/Python%20Cheet_Sheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/C%20CheetSheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/CSS%20Cheetsheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/HTML%20Cheet%20sheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/JavaScript%20Cheet_sheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prahalladnayak.github.io/Project_Cheet_Sheet/SQL%20Chhet%20Sheet.pdf</loc>
+  <lastmod>2024-11-15T12:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
