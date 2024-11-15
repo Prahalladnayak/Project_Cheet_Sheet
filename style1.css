@@ -1,0 +1,241 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .navbar ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navbar ul li a:hover {
+    color: #007BFF;
+  }
+  
+  /* Styles for the dynamic welcome message */
+
+  /* Main container style for the welcome message */
+.dynamic-welcome {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    padding: 10px 0;
+    margin: 0 auto;
+    letter-spacing: 0.5px;
+}
+
+/* Animated text color without creating additional borders or boxes */
+.dynamic-welcome span {
+    animation: colorChange 2s infinite alternate;
+}
+
+/* Color change keyframes */
+@keyframes colorChange {
+    0% { color: #2E86C1; }   /* Blue */
+    50% { color: #1ABC9C; }  /* Teal */
+    100% { color: #8E44AD; } /* Purple */
+}
+
+/* Remove any box shadow and background to keep the text integrated */
+.dynamic-welcome {
+    background: none;
+    box-shadow: none;
+    border: none;
+}
+
+  
+  /* Content */
+  .content {
+    text-align: center;
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .content h1 {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .content h3 {
+    font-size: 1.5em;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  /* Sections */
+  .section-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .section-container h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  section {
+    margin: 20px 0;
+  }
+  
+  section h3 {
+    font-size: 1.5em;
+    color: #007BFF;
+  }
+  
+  section p {
+    color: #555;
+  }
+  
+  section a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  section a:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+  }
+  
+  .footer-content a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .footer-content a:hover {
+    color: #0056b3;
+  }
+  
+
+  
+  
+  /* Content */
+  .content {
+    text-align: center;
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .content h1 {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .content h3 {
+    font-size: 1.5em;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  /* Sections */
+  .section-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .section-container h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  section {
+    margin: 20px 0;
+  }
+  
+  section h3 {
+    font-size: 1.5em;
+    color: #007BFF;
+  }
+  
+  section p {
+    color: #555;
+  }
+  
+  section a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  section a:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+  }
+  
+  .footer-content a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .footer-content a:hover {
+    color: #0056b3;
+  }
+  
